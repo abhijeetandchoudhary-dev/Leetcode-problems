@@ -57,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/abhijeetandchoudhary-dev/Leetcode-problems/tree/master/1140-stone-game-ii) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/abhijeetandchoudhary-dev/Leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/abhijeetandchoudhary-dev/Leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
