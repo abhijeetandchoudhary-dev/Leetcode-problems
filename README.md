@@ -21,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/abhijeetandchoudhary-dev/Leetcode-problems/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/abhijeetandchoudhary-dev/Leetcode-problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/abhijeetandchoudhary-dev/Leetcode-problems/tree/master/2029-stone-game-ix) |
 ## Greedy
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/abhijeetandchoudhary-dev/Leetcode-problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/abhijeetandchoudhary-dev/Leetcode-problems/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/abhijeetandchoudhary-dev/Leetcode-problems/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/abhijeetandchoudhary-dev/Leetcode-problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/abhijeetandchoudhary-dev/Leetcode-problems/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -65,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abhijeetandchoudhary-dev/Leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
+## String
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/abhijeetandchoudhary-dev/Leetcode-problems/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
